@@ -168,7 +168,7 @@ export default async function HomePage() {
               />
               <div className="relative aspect-[4/5] overflow-hidden rounded-t-[12rem] border border-ink-900/15">
                 <img
-                  src="/media/hero-scholar.jpg"
+                  src="/images/Top Abroad Agency in Suryapet for Hassle-Free Study Plans.jpg"
                   alt="A doctoral graduate in academic regalia"
                   className="h-full w-full object-cover"
                 />

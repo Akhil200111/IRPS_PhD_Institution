@@ -77,7 +77,7 @@ export default function AboutPage() {
           </>
         }
         intro="The Institute of Research & Professional Studies exists for one reason: honest doctorates. Since 2011 we have walked research scholars from first consultation to convocation — with the same mentors, the same rigor, and the same refusal to cut corners."
-        image="/media/library-stairs.jpg"
+        image="/media/about-library.jpg"
         imageCaption="Our Chennai research library — est. 2011"
       >
         <div className="flex flex-wrap gap-3">
